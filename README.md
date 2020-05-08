@@ -9,3 +9,4 @@
 | turtle.ai     |  https://www.turtle.ai/    |     |
 | weworkremotely.com | https://weworkremotely.com/ | |
 | upwork.com | https://www.upwork.com/ | |
+| freshremote.work | https://freshremote.work/ | |
