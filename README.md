@@ -3,6 +3,7 @@
 | Title       | URL          | Description  |
 | ------------- |-------------| -----|
 | angel.co       | https://angel.co/| |
+| okjob.io       | https://okjob.io/| |
 | remoteok.io      | https://remoteok.io/     |   |
 | remoters.net |  https://remoters.net/    |     |
 | remotive.io   |  https://remotive.io/    |     |
